@@ -1,4 +1,4 @@
-{% set version = "2.1.3" %}
+{% set version = "2.2.6" %}
 
 package:
   name: bob.ip.flandmark
@@ -6,7 +6,7 @@ package:
 
 source:
   fn: bob.ip.flandmark-{{ version }}.zip
-  md5: 061300529d53ca66c883219e6240f091
+  md5: 5b8f9836deeb5fe612601b52875e10bf
   url: https://pypi.io/packages/source/b/bob.ip.flandmark/bob.ip.flandmark-{{ version }}.zip
 
 build:
